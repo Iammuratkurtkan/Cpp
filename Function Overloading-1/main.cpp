@@ -20,12 +20,12 @@ public:
 
 int main()
 {
-    //Bu örnekte fonksiyon aşırı yüklenmesi kullanılmıştır. Argüman ve yapıcı fonksiyon ile harmanlanmıştır.
+    //Bu Ã¶rnekte fonksiyon aÅŸÄ±rÄ± yÃ¼klenmesi kullanÄ±lmÄ±ÅŸtÄ±r. ArgÃ¼man ve yapÄ±cÄ± fonksiyon ile harmanlanmÄ±ÅŸtÄ±r.
     yapici_fonk();
     yapici_fonk("Polat");
-    yapici_fonk("Polat","Elif");
-    yapici_fonk("Polat","Elif","Alemdar");
-    yapici_fonk("Polat","Elif","Alemdar","Eylul");
+    yapici_fonk("Polat","Memati");
+    yapici_fonk("Polat","Memati","Alemdar");
+    yapici_fonk("Polat","Memati","Alemdar","Bas");
 
 
     return 0;
