@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608036687 source:c:\users\iammu\desktop\yazýlým\c\random sayýlar ,diziler,sýralama\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
